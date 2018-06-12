@@ -1,1 +1,1 @@
-# [node-sass(https://github.com/sass/node-sass)]
+# [node-sass](https://github.com/sass/node-sass)
