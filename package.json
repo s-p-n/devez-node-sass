@@ -87,5 +87,5 @@
     "prepublish": "not-in-install && node scripts/prepublish.js || in-install",
     "test": "mocha test/{*,**/**}.js"
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
