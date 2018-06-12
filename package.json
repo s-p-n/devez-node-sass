@@ -28,7 +28,8 @@
     "npmlog": "^4.0.0",
     "sass-graph": "^2.2.4",
     "stdout-stream": "^1.4.0",
-    "true-case-path": "^1.0.2"
+    "true-case-path": "^1.0.2",
+    "minimatch": "^3.0.4"
   },
   "deprecated": false,
   "description": "Wrapper around libsass",
@@ -87,5 +88,5 @@
     "prepublish": "not-in-install && node scripts/prepublish.js || in-install",
     "test": "mocha test/{*,**/**}.js"
   },
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
